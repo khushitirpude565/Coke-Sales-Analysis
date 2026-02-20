@@ -1,4 +1,3 @@
-# Coke-Sales-Analysis
 # Coke Sales Analysis using Excel
 
 ## Project Objective
